@@ -11,12 +11,10 @@
 1. [**서비스 소개**](#-서비스-소개)
 2. [**기술 스택**](#%EF%B8%8F-기술-스택)
 3. [**시스템 아키텍처**](#-시스템-아키텍쳐)
-4. [**웹 주요기능 및 데모영상**](#-웹-주요기능-및-데모영상)\
-5. [**UCC 보러가기**](#-ucc-보러가기)   
-6. [**협업 관리**](#-협업-관리)
-7. [**개발 멤버 소개**](#-개발-멤버-소개)
-8. [**프로젝트 기간**](#-프로젝트-기간)
-9. [**프로젝트 관련 문서**](#-프로젝트-관련-문서)
+4. [**웹 주요기능 및 데모영상**](#-웹-주요기능-및-데모영상)
+5. [**협업 관리**](#-협업-관리)
+6. [**개발 멤버 소개**](#-개발-멤버-소개)
+7. [**프로젝트 기간**](#-프로젝트-기간)
 
 
 
@@ -81,13 +79,10 @@
 <div id="3"></div>
 
 ## 🎛 시스템 아키텍쳐
-
-![yousimCICD](/uploads/afd94b6133a1fb7381265a20bebe05b5/yousimCICD.jpg)
+![image](https://user-images.githubusercontent.com/98148597/203700153-bf263436-aed8-443b-a386-5959ea8db83b.png)
 
 #### ERD
-
-![yousim_erd](/uploads/13bb13d7ccb1e7e38f6d0dd93850e4ce/yousim_erd.jpg)
-
+![image](https://user-images.githubusercontent.com/98148597/203700169-17f41369-14bf-4c58-9107-370206f69d87.png)
 
 #### Backend 디렉토리 구조
 
@@ -146,18 +141,69 @@
 
 <div id="4"></div>
 
+<div id="4"></div>
 
+## 💻 웹 주요기능
+
+
+### 1. 현재 실시간 인기동영상을 분석한 태그, 키워드 워드클라우드
+<table> 
+    <tr>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203701776-f7a86eae-18f3-44d5-899f-9293d9333122.png">
+      </td>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203701776-f7a86eae-18f3-44d5-899f-9293d9333122.png">
+      </td>
+    </tr>
+    <tr>
+      <td colspan = 2, align = "center">
+            유튜브 API를 활용하여 현재 실시간 인기동영상 테그를 분석한 후 워드 클라우드로 사용자에게 제공하는 서비스 입니다.
+      </td>
+    </tr>
+</table>
+
+
+### 2. 유튜브 최적화 검색, 각 채널의 전체 민심 측정도, 채널별 키워드 분석
+<table> 
+    <tr>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203703096-2f9cc5c3-d355-4851-8f6b-12300d608043.png">
+      </td>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203703117-735a0f71-6c2e-46f5-831f-9d7b754e28ff.png">
+      </td>
+    </tr>
+    <tr>
+      <td colspan = 2, align = "center">
+             유튜브 인플루언서의 채널을 검색, 분석한 결과 페이지로 최신 영상을 기준으로<br> 댓글을 분석하여 채널의 민심, 키워드를 사용자에게 제공하는서비스입니다.
+      </td>
+    </tr>
+</table>
+
+
+### 3. 실시간 채널 영상, 각 영상별 시청자 민심, 키워드 분석
+<table> 
+    <tr>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203703225-5c693eb4-56a8-4596-a5dd-468aa07ae3bd.png">
+      </td>
+      <td>
+            <img src="https://user-images.githubusercontent.com/98148597/203703259-34bb45c7-2fa8-4546-8372-8b9726745190.png">
+      </td>
+    </tr>
+    <tr>
+      <td colspan = 2, align = "center">
+             선택한 영상을 기준으로 최신 댓글, 공감이 높은 댓글을 추출하여 감성분석한 결과를 사용자에게 제공하는 서비스입니다.
+      </td>
+    </tr>
+</table>
 
 </br>
 
 
 
 <div id="5"></div>
-
-## 🎥 UCC 보러가기
-
-[보러가기](https://www.youtube.com/watch?v=OL8DLIg1nm4)
-
 
 
 </br>
@@ -169,11 +215,6 @@
 ## 🙌 협업 관리
 
 ![image-20220815203822908](https://user-images.githubusercontent.com/97595340/184628695-0204ab05-b79a-43dc-adca-2598a48fe2e0.png)
-
-![image](/uploads/ea952a718b73df21a067e8d73828fb99/image.png)
-
-
-
 
 
 
@@ -188,12 +229,15 @@
     <tr>
         <td height="140px" align="center"> <a href="https://github.com/dm0114">
             <img src="https://user-images.githubusercontent.com/97595340/184632030-caf381aa-97d8-4324-b171-fd256356fc14.jpg" width="140px" /> <br><br> 👑 권덕민 <br>(Front-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="" width="140px" /> ![Uju](/uploads/3b5283ef1826fb55dcdf80a28b35ca59/Uju.png) <br><br> 😆 장우주 <br>(Front-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="" width="140px" /> 
+          <img src="https://user-images.githubusercontent.com/98148597/203699774-a4806387-0885-4244-8619-29a093f171ec.png" width="140px"/>
+          <br><br> 😆 장우주 <br>(Front-End) </a> <br></td>
         <td height="140px" align="center"> <a href="https://github.com/swyou1123">
             <img src="https://user-images.githubusercontent.com/97595340/184631762-20bf666d-aa58-4238-9e93-370f45919628.PNG" width="140px" /> <br><br> 🙂 유승우 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <a href="" width="140px" /> <br><br> 😁 장한울 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <a href="" width="140px" /> 
+        <img src="https://user-images.githubusercontent.com/98148597/203699980-01d0d470-a455-4d69-9bf8-c6db023fb489.png" width="140px"/>
+        <br><br> 😁 장한울 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <img src="https://user-images.githubusercontent.com/107858646/194451336-ded061b2-ff3e-4082-8c10-6b4931a2e470.jpg" width="140px" /> <br><br> 🙄 정관철 <br>(Back-End) </a> <br></td>
-        <td height="140px" align="center"> <img src="https://avatars.githubusercontent.com/u/43947420?s=400&u=b4a235963c1215a485c04fdfa6902b4d8485a647&v=4" width="140px" /> <br><br> 🙄 최영현 <br>(Back-End) </a> <br></td>
     </tr>
 </table>
 
@@ -213,20 +257,3 @@
 - 기획 및 설계 : 22.8.22 ~ 26
 - 프로젝트 구현 : 22.8.29 ~ 22.9.30
 - 버그 수정 및 산출물 정리 : 22.10.03 ~ 07
-
-
-
-<div id="9"></div>
-
-## 📖 프로젝트 관련 문서
-
-| 구분            | 링크                                                         |
-| --------------- | ------------------------------------------------------------ |
-| 와이어프레임    | [웹 와이어프레임 바로가기](/outputs/1.광주_1반_C106조_와이어프레임.pdf)  /  [디바이스 와이어프레임 바로가기](/outputs/3.광주_1반_C106조_임베디드_와이어프레임.pdf) |
-| DB덤프          | [DB덤프 바로가기](/exec/03_DB덤프.sql)                       |
-| ERD             | [ERD 바로가기](https://www.erdcloud.com/d/fKA2qjd6gNFftuiW6) |
-| 빌드/배포       | [빌드/배포 바로가기](/exec/01_광주_1반_C106_빌드%20및배포.pdf) |
-| 외부서비스 정보 | [외부서비스 정보 바로가기](/exec/02_광주_1반_C106_외부_서비스_정보.pdf) |
-| 시연 시나리오   | [시연 시나리오 바로가기](/exec/04_광주_1반_시연시나리오.pdf) |
-| 발표자료        | [발표자료 바로가기](https://drive.google.com/file/d/12lOU1-kJ9XMx_7HsXzjGJ9VWt4gaxyYJ/view) |
-
