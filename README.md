@@ -1,6 +1,4 @@
-<div align="center">
-![민심](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVN3hHMkIytFeAS2QNJMXesePfWInu5aGxQ&usqp=CAU)
-</div>
+![image](https://user-images.githubusercontent.com/98148597/203699067-9403716e-a9c0-413d-af52-e8cfec7fc4f8.png)
 
 <div align="center">
   <h1>유튜브 트랜드 분석 You心</h1>
