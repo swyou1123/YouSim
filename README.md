@@ -238,6 +238,7 @@
         <img src="https://user-images.githubusercontent.com/98148597/203699980-01d0d470-a455-4d69-9bf8-c6db023fb489.png" width="140px"/>
         <br><br> 😁 장한울 <br>(Back-End) </a> <br></td>
         <td height="140px" align="center"> <img src="https://user-images.githubusercontent.com/107858646/194451336-ded061b2-ff3e-4082-8c10-6b4931a2e470.jpg" width="140px" /> <br><br> 🙄 정관철 <br>(Back-End) </a> <br></td>
+        <td height="140px" align="center"> <img src= width="140px" /> <br><br> 🙄 최영현 <br>(Back-End) </a> <br></td>
     </tr>
 </table>
 
